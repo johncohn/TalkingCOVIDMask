@@ -1,6 +1,8 @@
 # Talking COVID Mask
 Talking COVID Mask - making people smile even when they don't always want to
 
+![Here's me and my mask](/images/me.png)
+
 Basic idea
 With everyone wearing masks I found it to be difficult to tell when someone was talking… Plus people needed a laugh so I created this simple animated face mask that moves when I talk. I’ve seen others on the web… I think what makes this one perhaps unique is it uses a little bit of adaptive averaging to adjust the audio range to keep the lips moving even as the speaker’s volume changes over time and situation. I’ve been wearing this to lots of zoom meetings and it creates lots of smiles… Something much-needed these days. Hope you enjoy it !
 Eager to see how people improve on the design
