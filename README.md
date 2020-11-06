@@ -46,7 +46,7 @@ Our wonderful friend Gretchen made the mask for me. We did lots of experimenting
 ![](/images/masksmile.png)
 
 # Deploy
-If you’re using a particle photon…  Go into the [particle IDE](https://build.particle.io/build/new) create a new sketch and copy [this code](/jc_maxk_V10.ino) in. You must also include the libraries for the sparkintervaltimer and the neomatrix into the sketch.  From that point you should be able to deploy on the photon
+If you’re using a particle photon…  Go into the [particle IDE](https://build.particle.io/build/new) create a new sketch and copy [this code](/jc_mask_V10.ino) in. You must also include the libraries for the sparkintervaltimer and the neomatrix into the sketch.  From that point you should be able to deploy on the photon
 
 Enjoy !
 -jc
